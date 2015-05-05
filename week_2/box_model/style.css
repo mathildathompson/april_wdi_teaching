@@ -1,0 +1,15 @@
+h1 {
+  color:blue;
+}
+
+h1 span {
+  color:red;
+  text-transform: uppercase;
+}
+.box {
+  width:200px;
+  height:200px;
+  border:1px solid pink;
+  margin:2%;
+  padding:3%;
+}
